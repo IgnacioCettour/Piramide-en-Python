@@ -18,4 +18,4 @@ def piramide(cantidad_palitos:int)-> int:
 
     return cantidad_palitos
 
-piramide(21) #ejemplo de 21 |, vos despues declaras en main con tus variables!!
+piramide(21) #ejemplo de 21 |, vos despues declaras un main con tus variables!!
